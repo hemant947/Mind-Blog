@@ -1,6 +1,8 @@
 # Mind-Blog
 
-Welcome to mindblog. This is a blogging website for anyone wanting to write their own blogs and look at other. You can see everyones blogs. No comments, no likes. Contribute to make this better!
+Welcome to mindblog. This is a blogging website for anyone wanting to write their own blogs. You can create multiple logins for each shade of your mood and write using that shade. All moods can see each other blogpost and thus it helps you to analyse more about your thought and feelings! No comments, no likes. 
+
+Contribute to make this better!
 
 ## Installation
 
